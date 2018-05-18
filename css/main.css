@@ -1,0 +1,12 @@
+h2 {
+  color: red;
+}
+
+.title, p, h2 {
+  text-align: center;
+}
+
+#paragraph {
+  color: blue;
+  font-size: 20px;
+}
